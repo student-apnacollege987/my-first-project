@@ -1,5 +1,5 @@
 # my-first-project
-<br>
-<br>
+
 This is my first Git repository.
+<br>
 Author - love babber
